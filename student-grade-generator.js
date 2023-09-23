@@ -6,7 +6,10 @@ const gradeStr = prompt('Enter your grade: ');
 // Converting the string to an integer
 const grade = parseInt(gradeStr, 10);
 
+// naming yourGrade using because i am going to change with each grading
 let yourGrade;
+
+//finding the grades
 if(grade > 79){
     yourGrade = "A";
 }
@@ -23,5 +26,5 @@ else{
     yourGrade = "D";
 }
    
-
+//printing out the users grade
 console.log(`Your grade is: ${yourGrade}`)
