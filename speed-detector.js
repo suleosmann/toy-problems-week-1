@@ -14,7 +14,7 @@ if (speedInput < speedLimit) {
     outPut = "OK"
 } 
 // Suspend the license
-else if (speedOverLimit >= 12) {
+else if (speedOverLimit >= 60) {
     outPut = "License suspended"
 } 
 // calculating the points
