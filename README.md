@@ -69,6 +69,3 @@ Net Salary: 47400
 
 Author
 Suleiman Osman
-
-
-Feel free to copy and paste this README into your project documentation, and it should provide clear instructions for users and credit you as the author.
