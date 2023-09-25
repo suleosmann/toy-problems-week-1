@@ -28,6 +28,6 @@ function studentGrading(grade){
     }
     return yourGrade
 }
-const graded = studentGrading(grade)
+const newgrade = studentGrading(grade)
 //printing out the users grade
-console.log(`Your grade is: ${graded}`)
+console.log(`Your grade is: ${newgrade}`)
